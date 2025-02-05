@@ -2,10 +2,11 @@ body {
   /* Ici on utilise le sélecteur body pour appliquer une police et une taille par défaut pour les éléments */
   font-family: 'Manrope', sans-serif;
   font-size: 1em;
+  background-color: #1F2039;
 }
 
 a {
-  color: black;
+  color: #242424;
   text-decoration: none;
 }
 
@@ -22,4 +23,25 @@ h1 {
 
 p {
   font-size: 1.1em;
+}
+
+h2, p, ul {
+  color: #F9F8FF;
+}
+
+.cta {
+  background: linear-gradient(#8E86B5, #ACAEED);
+}
+
+.cta-txt {
+  font-family: 'Manrope', sans-serif;
+  color: white;
+}
+
+.header {
+  background-color: white;
+}
+
+.footer {
+  background-color: white;
 }
