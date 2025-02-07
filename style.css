@@ -9,6 +9,22 @@ a {
   text-decoration: none;
 }
 
+a[title]:hover {
+  text-decoration: underline;
+}
+
+a [class*="cta"] {
+  color: #696484;
+}
+
+a[class*="cta"]:hover {
+  color:#8788BA;
+}
+
+a img:hover{
+  opacity: 0.5;
+}
+
 em {
   color: #a5b4fc;
   font-style: normal;
