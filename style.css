@@ -17,8 +17,8 @@ a [class*="cta"] {
   color: #696484;
 }
 
-a[class*="cta"]:hover {
-  color:#8788BA;
+.cta:hover {
+  background: linear-gradient(#696484, #8788ba);
 }
 
 a img:hover{
