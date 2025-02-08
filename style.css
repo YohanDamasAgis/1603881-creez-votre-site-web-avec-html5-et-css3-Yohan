@@ -26,17 +26,24 @@ h1 {
 
 h2 {
   color: #f9f8ff;
+  margin-top: 50px;
 }
 
 p,
 li {
   font-size: 1.1em;
   color: #f9f8ff;
+  margin-top: 20px;
 }
 
 header,
 footer {
   background-color: white;
+  padding: 20px 50px;
+}
+
+section {
+  padding: 80px;
 }
 
 .cta {
@@ -61,4 +68,5 @@ a:hover {
 .carre-contenu {
   border-right: 1px solid #8e86b5;
   border-bottom: 1px solid #8e86b5;
+  padding: 50px;
 }
