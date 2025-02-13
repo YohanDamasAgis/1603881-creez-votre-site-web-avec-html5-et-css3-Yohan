@@ -40,6 +40,17 @@ footer {
   padding: 20px 50px;
 }
 
+nav {
+  display: flex;
+  align-items: center;
+}
+
+.navlinks {
+  display: flex;
+  gap: 3em;
+  margin-left: auto;
+}
+
 .cta {
   background: linear-gradient(#8e86b5, #acaeed);
   color: white;
