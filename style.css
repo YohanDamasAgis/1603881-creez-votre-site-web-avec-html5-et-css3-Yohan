@@ -93,3 +93,14 @@ section {
   width: 50%;
   margin: auto;
 }
+
+.main-section{
+  display: flex;
+  justify-content: space-around;
+}
+
+.home-left-part {
+  display: flex;
+  flex-direction: column;
+  justify-content: stretch;
+}
