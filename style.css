@@ -41,6 +41,7 @@ footer {
 }
 
 .cta {
+  display: inline-block;
   background: linear-gradient(#8e86b5, #acaeed);
   color: white;
   border-radius: 50px;
@@ -123,7 +124,25 @@ nav a {
   flex-direction: row;
   width: 50%;
   align-items: center;
+  justify-content: center;
   margin: auto;
+}
+
+.accueil-introduction h1 {
+  margin-bottom: 40px;
+}
+
+.accueil-introduction p {
+  margin-bottom: 50px;
+}
+
+.accueil-introduction img {
+  margin-left: 150px;
+}
+
+.accueil-introduction div {
+  position: relative;
+  bottom: 30px;
 }
 
 .portfolio-section-photos {
