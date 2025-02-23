@@ -88,6 +88,17 @@ section {
   margin: auto;
 }
 
+.a-propos-main h1 {
+  margin-bottom: 50px;
+  position: relative;
+  right: 30px;
+}
+
+.bouton-portfolio {
+  margin-top: 70px;
+  text-align: center;
+}
+
 footer,
 nav {
   display: flex;
