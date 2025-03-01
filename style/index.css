@@ -41,3 +41,15 @@
   color: #a5b4fc;
   text-align: center;
 }
+
+label {
+  color: white;
+}
+
+form {
+display: flex;
+margin: auto;
+width: 50%;
+flex-direction: column;
+justify-content: center;
+}
